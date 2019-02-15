@@ -1,45 +1,28 @@
-# Oasis - a responsive Jekyll template for mobile applications
+# Jekyll Serif Theme
 
-![Oasis Screenshot](./screenshot.jpg)
+Serif is a beautiful small business theme for Jekyll. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-Oasis is a responsive Jekyll template designed for developers who want to set up a small landing page for their mobile applications. It is made with usability and simplicity in mind for you to easily customize.
+[Live Demo](https://jekyll-serif-theme.netlify.com/)
 
-Check out the details on [Codrops]()
+![Hugo Serif Theme screenshot](https://github.com/JugglerX/jekyll-serif-theme/blob/master/screenshots/screenshot-with-border.png)
 
-## Live Demo
+## Theme features
 
-🔮 [Oasis Live Demo](https://tympanus.net/Freebies/)
+- Services (Collection)
+- Team (Collection)
+- Testimonials (Collection)
+- Features (Data)
+- SCSS
+- Responsive design
+- Bootstrap 4 grid and media queries only
+- Responsive menu
+- 100/100 Google Lighthouse speed score
+- Under 30KB without images or 80KB with images and illustrations ⚡
+- Robust example content included
+- Royalty free illustrations included
 
-## Running It Locally
+## Deployment
 
-1.  Install Jekyll (follow the instruction on [Official Jekyll Documentation](https://jekyllrb.com/))
-2.  Install Sass locally.
-3.  run these commands in separate terminal windows
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
-```
-cd codrops-oasis
-jekyll server
-
-// in same directory, but annother terminal window
-sass --watch sass/oasis.scss:oasis.css
-```
-
-## Credits
-
-* [Google Fonts - Open Sans, Fjalla One](https://fonts.google.com)
-* [Font Awesome v4](http://fontawesome.io/)
-* [Waypoint.js](http://imakewebthings.com/waypoints/)
-* [Tiny Slider](https://github.com/ganlanyuan/tiny-slider)
-* [Chart js](http://www.chartjs.org/)
-
-## License
-
-Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
-
-## Misc
-
-Follow Amie: [Website](https://www.amie-chen.com/), [Dribbble](http://www.dribbble.com/amiechen01), [Github](https://github.com/amiechen), [Twitter](https://twitter.com/hyper_yolo), [Medium](https://medium.com/@hyperyolo)
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2018](http://www.codrops.com)
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
