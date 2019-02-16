@@ -1,13 +1,20 @@
 ---
-title: "Superannuation"
-image: "/services/default.png"
+title: 'Scolah Finance'
+image: '/services/noun_591323.png'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The demand for higher education is growing across Sub Sahara Africa which has a youthful
+population. However, as a result of financial barriers, access (enrollment) is decreasing while
+attrition rates are increasing (completion rate).
+Private institutions rely mostly on internally generated funds to run their operations and expand
+their facilities. As a result of the declining enrollment numbers, increasing student attrition rate,
+private institutions are facing cash flow challenges.
+SCOLAH FINANCE works with universities to design personalized tuition plans with
+an automated platform to improve the fee collection process. Scolah finance app would help
+institutions reduce financial barriers to higher education access while ensuring their
+sustainability. 
 
-## Ne verba patulosque numen vix libet
+## Understanding the challenges 
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui

@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Scolah Education'
 image: '/services/default.png'
 ---
 
