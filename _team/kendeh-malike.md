@@ -7,4 +7,6 @@ linkedinurl: 'https://www.linkedin.com/'
 ---
 
 Computer Engineer, KNUST with 7 years experience as Enterprise
-solution lead for DreamOval. He also consulted for Andela and the World Bank
+solution lead for DreamOval. He also consulted for Andela, the World Bank and other companies.
+
+Kendeh.
